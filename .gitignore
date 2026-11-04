@@ -1,0 +1,8 @@
+# Entorno virtual y cachés
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Datos: los CSV no se suben a GitHub (pesan mucho); se documenta cómo obtenerlos en el README
+data/raw/*.csv
+data/raw/*.zip
