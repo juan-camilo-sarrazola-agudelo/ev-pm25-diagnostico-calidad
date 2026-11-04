@@ -81,7 +81,7 @@ También puede abrirlo con `jupyter lab` y usar **Run All**.
 | `v0.3` | Datos documentados |
 | `v0.4` | Notebook de diagnóstico ejecutado |
 | `v0.5` | Informe técnico y README |
-| `v1.0` | Entrega EV06 en `main` |
+| `v1.0` | Entrega EV05 en `main` |
 
 
 
