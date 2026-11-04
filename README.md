@@ -1,6 +1,7 @@
 # Vehículos eléctricos y calidad del aire · Diagnóstico de calidad de datos
 
-Actividad **GA1-220501094-01-AA1-EV06 – Diagnosticar la calidad de datos: preparación, exploración y documentación**
+
+Actividad **GA1-220501094-01-AA1-EV05 – Diagnosticar la calidad de datos: preparación, exploración y documentación**
 
 Aprendiz: Juan Camilo Sarrazola Agudelo · Ficha 3169901 · SENA
 
@@ -81,3 +82,6 @@ También puede abrirlo con `jupyter lab` y usar **Run All**.
 | `v0.4` | Notebook de diagnóstico ejecutado |
 | `v0.5` | Informe técnico y README |
 | `v1.0` | Entrega EV06 en `main` |
+
+
+
