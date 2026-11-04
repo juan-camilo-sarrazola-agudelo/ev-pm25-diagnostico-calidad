@@ -1,6 +1,6 @@
 # Informe técnico · Diagnóstico inicial de calidad de datos
 
-**Actividad:** GA1-220501094-01-AA1-EV06
+**Actividad:** GA1-220501094-01-AA1-EV05
 **Aprendiz:** Juan Camilo Sarrazola Agudelo · Ficha 3169901 · SENA
 **Fecha de ejecución del diagnóstico:** 2026-11-04
 **Generado por:** `notebooks/diagnostico_calidad.ipynb` (todas las cifras salen de Pandas)
