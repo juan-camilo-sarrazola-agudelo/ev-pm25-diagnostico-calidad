@@ -2,8 +2,8 @@
 
 **Actividad:** GA1-220501094-01-AA1-EV05
 **Aprendiz:** Juan Camilo Sarrazola Agudelo · Ficha 3169901 · SENA
-**Fecha de ejecución del diagnóstico:** 2026-11-04
-**Generado por:** `notebooks/diagnostico_calidad.ipynb` (todas las cifras salen de Pandas)
+**Fecha de ejecución del diagnóstico:** 2026-11-12
+**Generado por:** `notebooks/data_quality.ipynb` (todas las cifras salen de Pandas)
 
 ## 1. Proyecto y pregunta analítica
 **Proyecto:** Vehículos eléctricos y calidad del aire: ¿el aumento de carros eléctricos ayuda a reducir el PM2.5 en las ciudades?
